@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Hex-Rays\IDA]
+"DisplayWelcome"=dword:00000000
+"InformedAboutUpdates3"=dword:00000001
+"AutoCheckUpdates"=dword:00000000
+"AutoRequestUpdates"=dword:00000000
+"License Jiang Ying, Personal license"=dword:00000001
+"InformedAboutUpdates2"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Hex-Rays\IDA\Hidden Messages]
+"The decompiler assumes that the segment   s  is read only because of its  s  All data references to "=dword:00000001
+"The technical support period of the Hex Rays decompiler has expired  You have 3 month grace period t"=dword:00000000
+" s  failed to load pdb info   s Do you want to browse for the pdb file on disk "=dword:00000001
+"The input file was linked with debug information  and the symbol filename is    s  Do you want to lo"=dword:00000001
